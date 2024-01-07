@@ -1,0 +1,113 @@
+{
+  "santos": [
+    {
+      "id": 1,
+      "name": "Seiya",
+      "constellation": "Pegaso"
+    },
+    {
+      "id": 2,
+      "name": "Shiryu",
+      "constellation": "Dragon"
+    },
+    {
+      "id": 3,
+      "name": "Hyoga",
+      "constellation": "Cisne"
+    },
+    {
+      "id": 4,
+      "name": "Shun",
+      "constellation": "Andromeda"
+    },
+    {
+      "id": 5,
+      "name": "Ikki",
+      "constellation": "Fenix"
+    },
+    {
+      "id": 1675985103559,
+      "name": "Saga",
+      "constellation": "Geminis"
+    },
+    {
+      "id": 1680646940199,
+      "name": "Albe",
+      "constellation": "Leon"
+    }
+  ],
+  "Estados": {
+    "error": false,
+    "code_error": 0,
+    "error_message": null,
+    "response": {
+      "estado": [
+        "Ciudad de México",
+        "Aguascalientes",
+        "Baja California",
+        "Baja California Sur",
+        "Campeche",
+        "Coahuila de Zaragoza",
+        "Colima",
+        "Chiapas",
+        "Chihuahua",
+        "Durango",
+        "Guanajuato",
+        "Guerrero",
+        "Hidalgo",
+        "Jalisco",
+        "México",
+        "Michoacán de Ocampo",
+        "Morelos",
+        "Nayarit",
+        "Nuevo León",
+        "Oaxaca",
+        "Puebla",
+        "Querétaro",
+        "Quintana Roo",
+        "San Luis Potosí",
+        "Sinaloa",
+        "Sonora",
+        "Tabasco",
+        "Tamaulipas",
+        "Tlaxcala",
+        "Veracruz de Ignacio de la Llave",
+        "Yucatán",
+        "Zacatecas"
+      ]
+    }
+  },
+  "Municipios": {
+    "error": false,
+    "code_error": 0,
+    "error_message": null,
+    "response": {
+      "municipios": [
+        "Aguascalientes",
+        "San Francisco de los Romo",
+        "El Llano",
+        "Rincón de Romos",
+        "Cosío",
+        "San José de Gracia",
+        "Tepezalá",
+        "Pabellón de Arteaga",
+        "Asientos",
+        "Calvillo",
+        "Jesús María"
+      ]
+    }
+  },
+  "Colonias": {
+    "error": false,
+    "code_error": 0,
+    "error_message": null,
+    "response": {
+      "colonia": [
+        "Minerva",
+        "Granjas Esmeralda",
+        "Los Cipreses",
+        "Progreso del Sur"
+      ]
+    }
+  }
+}
